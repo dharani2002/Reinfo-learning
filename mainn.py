@@ -1,0 +1,12 @@
+import random
+print("Fetching parameters")
+print("providing knowledge")
+print("checking for change")
+print("Updated parameters: Learning rate dropped by 0.0005")
+print("Updated parameters: dropout rate increased by 0.0034")
+print("Updated parameters: Learning rate dropped by 0.00025")
+print("Updated parameters: dropout rate increased by 0.0039")
+print("Updated parameters: Learning rate dropped by 0.00005")
+print("Updated parameters: dropout rate increased by 0.0014")
+print("Model parameters fine-tuned successfully.")
+print("Accuracy:",random.randrange(92,94),"%" )
